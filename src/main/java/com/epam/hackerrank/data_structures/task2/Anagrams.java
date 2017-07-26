@@ -1,4 +1,4 @@
-package com.epam.hackerrank.task2;
+package com.epam.hackerrank.data_structures.task2;
 
 
 public class Anagrams {

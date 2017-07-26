@@ -1,4 +1,4 @@
-package com.epam.hackerrank.task1;
+package com.epam.hackerrank.data_structures.task1;
 
 public class ArraysLeftRotation {
 
