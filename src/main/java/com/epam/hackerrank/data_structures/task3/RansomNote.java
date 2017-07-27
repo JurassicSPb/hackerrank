@@ -25,7 +25,6 @@ public class RansomNote {
                 wordsMap.put(s, 0);
             }
         }
-        System.out.println(wordsMap);
         return true;
     }
 }
